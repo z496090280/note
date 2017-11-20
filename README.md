@@ -2,17 +2,21 @@
 
 > A Vue.js project
 
-## Build Setup
+## 技术栈
+
+> A Vue.js project
+vue2 + vuex + vue-router + webpack + ES6 sass + element-ui
+
+## 项目运行
 
 ``` bash
-# install dependencies
-npm install
+cd note
 
-# serve with hot reload at localhost:8080
-npm run dev
+npm install  //依赖安装
 
-# build for production with minification
-npm run build
+npm run dev  //运行项目
+
+npm run build  //压缩项目（可不执行）
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
